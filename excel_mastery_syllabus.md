@@ -44,10 +44,7 @@ A complete roadmap to master Microsoft Excel from beginner to expert level — d
 - `RANK`, `SMALL`, `LARGE`, `ROUND`, `MOD`, `POWER`, `PRODUCT`
 - `SUBTOTAL`, `SUMPRODUCT`
 
-### Practice Projects:
-- Sales tracker with incentives
-- Employee performance tracker
-- Grading report
+
 
 ---
 
