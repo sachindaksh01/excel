@@ -62,9 +62,6 @@ A complete roadmap to master Microsoft Excel from beginner to expert level — d
   - Data Bars, Color Scales, Icon Sets
   - Formula-based rules
 
-### Practice Projects:
-- KPI Dashboard
-- Performance Analysis Report
 
 ---
 
