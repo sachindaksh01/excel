@@ -119,52 +119,14 @@ A complete roadmap to master Microsoft Excel from beginner to expert level — d
 - Watch Window, Formula Auditing
 - Worksheet and Cell Protection
 - Error Checking
+- Macros & VBA Basics
 
-
-
----
-
-## 🟧 Stage 8: Macros & VBA Basics
-**Duration:** Week 11
-
-### Topics Covered:
-- Record Macro
-- Use Macro Buttons
-- Introduction to VBA Editor
-- Write basic VBA scripts
-
-
-
----
-
-## 🟨 Stage 9: Business Reporting + Interview Prep
-**Duration:** Week 12
-
-### Topics Covered:
-- Build Professional Dashboards
-- Format Business Reports
-- Real-world Formula Challenges
-- Interview Scenario Practice:
-  - VLOOKUP vs INDEX+MATCH
-  - KPI Reporting Task
-
-### Final Project:
-- Complete Business Dashboard with:
-  - Charts, Slicers, Pivots, Formulas
-
----
-
-## 🏁 Bonus: Integration & Real-World Use
-- Excel + Power BI
-- Excel + Python (`xlwings`)
-- Excel + SQL (Connect and Query)
-- Excel Google Sheets Comparison
 
 ---
 
 ## 🎯 Deliverables & Tools
-- 📄 PDF Formula Cheat Sheet
-- 📊 Sample Files (Invoices, Trackers, Dashboards)
+- 📄 Export to PDF
+- 📊 Print
 - 📈 Final Project Template
 - ✅ Tracker Sheet for Course Progress
 
