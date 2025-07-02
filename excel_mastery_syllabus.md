@@ -71,9 +71,7 @@ A complete roadmap to master Microsoft Excel from beginner to expert level — d
 - Grouping, filtering, summarizing
 - Basic Dashboard design principles
 
-### Practice Projects:
-- Sales Dashboard
-- Lead Conversion Dashboard
+
 
 ---
 
@@ -92,9 +90,7 @@ A complete roadmap to master Microsoft Excel from beginner to expert level — d
 - List dropdowns
 - Custom data rules
 
-### Practice Projects:
-- Auto-updating report templates
-- Form-controlled dashboards
+
 
 ---
 
@@ -109,9 +105,7 @@ A complete roadmap to master Microsoft Excel from beginner to expert level — d
 - Create Data Model and Relationships
 - Basic DAX Functions: `CALCULATE`, `FILTER`, `SUMX`, `RELATED`
 
-### Practice Projects:
-- Combine 12-month reports
-- Clean and reshape messy data
+
 
 ---
 
@@ -126,9 +120,7 @@ A complete roadmap to master Microsoft Excel from beginner to expert level — d
 - Worksheet and Cell Protection
 - Error Checking
 
-### Practice Projects:
-- What-if Analysis Models
-- Budget Optimization Tool
+
 
 ---
 
@@ -141,9 +133,7 @@ A complete roadmap to master Microsoft Excel from beginner to expert level — d
 - Introduction to VBA Editor
 - Write basic VBA scripts
 
-### Practice Projects:
-- One-click Formatting Macro
-- Automated Report Generator
+
 
 ---
 
