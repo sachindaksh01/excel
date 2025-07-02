@@ -24,10 +24,6 @@ A complete roadmap to master Microsoft Excel from beginner to expert level — d
 ### Date Functions:
 - `TODAY`, `NOW`, `DATEDIF`, `YEAR`, `MONTH`, `DAY`, `NETWORKDAYS`
 
-### Practice Projects:
-- Invoice format
-- Student mark sheet
-- Attendance tracker
 
 ---
 
