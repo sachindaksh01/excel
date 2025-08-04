@@ -79,16 +79,15 @@ A complete roadmap to master Microsoft Excel from beginner to expert level — d
 **Duration:** Week 7–8
 
 ### Dynamic Array Functions:
-- `FILTER`, `SORT`, `SORTBY`, `UNIQUE`, `SEQUENCE`, `RANDARRAY`
+- `FILTER`, `UNIQUE`, `SEQUENCE`, `RANDARRAY`
 
 ### Power Functions:
-- `LET`, `LAMBDA`, `ISBLANK`, `ISNUMBER`
-- `INDIRECT`, `OFFSET`, `FORMULATEXT`, `CELL`
-- `HYPERLINK`, `INFO`, `REPT`, `ROMAN`
+- `ISBLANK`, `ISNUMBER`
+- `HYPERLINK`, `REPT`, `ROMAN`
 
 ### Data Validation:
 - List dropdowns
-- Custom data rules
+
 
 
 
