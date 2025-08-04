@@ -109,7 +109,7 @@ A complete roadmap to master Microsoft Excel from beginner to expert level — d
 - Goal Seek, Scenarios, Data Tables
 - Solver Tool
 - Named Ranges
-- Watch Window, Formula Auditing
+- Formula Auditing
 - Worksheet and Cell Protection
 - Macros & VBA Basics
 
