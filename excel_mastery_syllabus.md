@@ -78,37 +78,31 @@ A complete roadmap to master Microsoft Excel from beginner to expert level — d
 ## 🔴 Stage 5: Advanced Excel (Dynamic Arrays + Power Features)
 **Duration:** Week 7–8
 
-### Dynamic Array Functions:
+### Dynamic Array Functions & *(for 365 users)*
 - `FILTER`, `UNIQUE`, `SEQUENCE`, `RANDARRAY`
+- `TEXTSPLIT()` 
 
-### Power Functions:
-- `ISBLANK`, `ISNUMBER`
-- `HYPERLINK`, `REPT`, `ROMAN`
 
 ### Data Validation:
-- List dropdowns
+- `List dropdowns`, `date`, `time`, `Number`, `other`
 
+###  Database Functions
+- `DGET`, `DSUM`, `DCOUNT`, `DAVERAGE`, `DMAX`, `DMIN`
 
-
-
----
-
-## 🟤 Stage 6: Excel Data Analysis Tools
-**Duration:** Week 9
-
-### Power Query (Get & Transform):
-- Import data from Excel, Web, CSV, JSON
-- Clean, split, merge, and append data
-
-### Power Pivot:
-- Create Data Model and Relationships
-- Basic DAX Functions: `CALCULATE`, `FILTER`, `SUMX`, `RELATED`
-
+### 🧾 Additional Useful Functions
+- `ISERROR`, `ISTEXT`, `ISFORMULA`, `ISNUMBER`, `ISBLANK`
+- `TEXT()`, `ROUNDUP()`, `ROUNDDOWN()`
+- `CEILING()`, `FLOOR()`
+- `TRANSPOSE()`
+- `HYPERLINK`, `REPT`, `ROMAN`
 
 
 ---
 
-## ⚫ Stage 7: Excel Automation + Optimization
+
+---
+
+## ⚫ Stage 6: Excel Automation + Optimization
 **Duration:** Week 10
 
 ### Topics Covered:
@@ -117,7 +111,6 @@ A complete roadmap to master Microsoft Excel from beginner to expert level — d
 - Named Ranges
 - Watch Window, Formula Auditing
 - Worksheet and Cell Protection
-- Error Checking
 - Macros & VBA Basics
 
 
@@ -131,15 +124,7 @@ A complete roadmap to master Microsoft Excel from beginner to expert level — d
 
 ---
 
-## 🧾 Additional Useful Functions (Not Covered Above)
-- `ISERROR`, `ISTEXT`, `ISFORMULA`
-- `TEXT()`, `ROUNDUP()`, `ROUNDDOWN()`
-- `CEILING()`, `FLOOR()`
-- `TRANSPOSE()`
-- `DGET`, `DSUM`, `DCOUNT`, `DAVERAGE`, `DMAX`, `DMIN`
-- `TEXTSPLIT()` *(for 365 users)*
 
----
 
 **📌 Tip:** Keep practicing with real-world problems and try to build mini-projects every week to reinforce learning.
 
