@@ -31,7 +31,7 @@ A complete roadmap to master Microsoft Excel from beginner to expert level — d
 **Duration:** Week 3–4
 
 ### Logical Functions:
-- `AND`, `OR`, `XOR`, `IFS`
+- `AND`, `OR`, `XOR`
 
 ### Lookup Functions:
 - `VLOOKUP`, `HLOOKUP`, `LOOKUP`
@@ -80,7 +80,7 @@ A complete roadmap to master Microsoft Excel from beginner to expert level — d
 
 ### Dynamic Array Functions & *(for 365 users)*
 - `FILTER`, `UNIQUE`, `SEQUENCE`, `RANDARRAY`
-- `TEXTSPLIT()` 
+- `TEXTSPLIT()` , `IFS`
 
 
 ### Data Validation:
